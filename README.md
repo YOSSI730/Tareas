@@ -1,4 +1,4 @@
-# Tareas4
+# Tarea 4
 # Sistema de Gestión de Reservas para Restaurante Virtual
 
 ## Descripción del Proyecto
